@@ -7,6 +7,7 @@ I use the open source font ***Source Code Pro*** for my editors. You can find it
 
 ###Xcode Themes
 - Dizzko.dvtcolortheme 
+- Dizzko-Night.dvtcolortheme
 
 ###TextMate Themes
 - coming soon
